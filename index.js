@@ -5,3 +5,4 @@ function writeCards(array, occasion) {
   }
   return messages
 }
+
