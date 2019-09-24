@@ -1,6 +1,7 @@
 function writeCards(array, occasion) {
+  let messages = []
   for (let i = 0; i < array.length; i++) {
-    console.log(`Thank you, ${array[i]}, for the wonderful ${occasion} gift!`)
+    messages.push(`Thank you, ${array[i]}, for the wonderful ${occasion} gift!`)
   }
   
 }
