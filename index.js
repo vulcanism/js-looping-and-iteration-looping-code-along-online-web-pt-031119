@@ -6,4 +6,7 @@ function writeCards(array, occasion) {
   return messages
 }
 
-function countdown
+function countdown(number) {
+  let n = number
+  
+}
